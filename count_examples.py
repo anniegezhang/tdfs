@@ -1,3 +1,5 @@
+# count how many records in each shard
+
 import tensorflow as tf
 import glob
 
